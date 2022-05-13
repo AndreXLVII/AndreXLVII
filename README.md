@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreXLVII
 - 👀 I’m interested in History, 3D art, gaming & music.
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning computer science
 
 <!---
 AndreXLVII/AndreXLVII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
